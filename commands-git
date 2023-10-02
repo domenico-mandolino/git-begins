@@ -1,7 +1,12 @@
 git clone https://github.com/mandolino-domenico/git-begins
-Clonage dans 'git-begins'...
+Clonage dans 'git-begins'...(cloner le ficher sur pc)
 
-git add .
-git comit -m "nom du ficher"
-git push
-git pull
+git add .(ajuter le modicfication à la racine)
+git comit -m "nom du ficher"(ajuter commentaire )
+git push(uplouder sur le hub)
+git pull(recupere une copie depuis le hub sur pc)
+git branch <branchname>(ajuter une branche)
+git checkout -b <branchname>(ajuter une branche et basculer)
+git checkout (basculer sur la branche)
+
+
