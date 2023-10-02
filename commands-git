@@ -4,3 +4,4 @@ Clonage dans 'git-begins'...
 git add .
 git comit -m "nom du ficher"
 git push
+git pull
